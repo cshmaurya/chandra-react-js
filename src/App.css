@@ -179,7 +179,6 @@
   }
   &::after {
     right: 0;
-    left:0;
     border-right-color: var(--border);
   }
 }
